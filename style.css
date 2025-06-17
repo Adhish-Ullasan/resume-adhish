@@ -1,0 +1,18 @@
+    .title {
+        color: rgb(24, 131, 218);
+    }
+    h3 {
+        font-family: monospace;
+        font-size: 14px;
+    }
+    footer h3 {
+        font-size: 13px;
+    }
+    footer p {
+        font-size: 9px;
+    }
+    main, header, footer {
+        width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
